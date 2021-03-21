@@ -1,0 +1,176 @@
+/*總體樣式*/
+p {
+	font-family:"微軟正黑體";
+	font-size:16px;
+	line-height:20px;
+	
+}
+
+h1, h2, h3, h4{
+	font-family:"標楷體";
+}
+
+/*內功*/
+.NeiGong {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:16px;
+	color:#0000FF;
+}
+
+/*輕功*/
+.QingGong {
+	font-family: "微軟正黑體";
+	font-weight:bold;
+	font-size: 16px;
+	color: #009900;
+}
+
+/*拳掌*/
+.QuanZhang {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:16px;
+	color:#F00;
+}
+
+/*御劍*/
+.YuJian {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:16px;
+	color:#FFAC00;
+}
+
+/*兵器*/
+.BingQi {
+	font-family:"微軟正黑體";
+	font-size:16px;
+	font-weight:bold;
+	color:#3C0;
+}
+
+/*指腿*/
+.ZhiTui {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:16px;
+	color:#09C;
+}
+
+/*暗毒*/
+.AnDu {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:16px;
+	color:#3A006F;
+}
+
+/*丹藥*/
+.Eat {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:16px;
+	color:#0C9;
+}
+
+/*裝備*/
+.ZhuangBei {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:16px;
+	color:#900;
+}
+
+/*重要道具*/
+.Important {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:16px;
+	color:#F6C;
+}
+
+/*暗器*/
+.Anchi {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:16px;
+	color:#55AAFF;
+}
+
+/*銀兩*/
+.QiTa {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:16px;
+	color:#F99;
+}
+
+/*稱號*/
+/*天賦*/
+.ChengHao,
+.TianFu {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:16px;
+	color:#F60;
+}
+
+
+/*粗體強調*/
+.bstress {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:17px;
+}
+
+/*粗體強調紅字*/
+.bstressred {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:16px;
+	color:#F00;
+}
+
+/*粗體強調紅字小*/
+.bstressredd {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:12px;
+	color:#F00;
+}
+
+/*人名*/
+.bname {
+	color:#F3F;
+}
+
+/*人物狀態變化*/
+.statchange {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	color:#66C;
+}
+
+/*戰鬥*/
+.combat {
+	font-family:"微軟正黑體";
+	text-decoration:underline;
+	font-weight:500;
+}
+
+/*天書*/
+.TianShu {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:16px;
+	color:#C90;
+}
+
+/*隊友入隊*/
+.RuDui {
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	color:#93f;
+}
+

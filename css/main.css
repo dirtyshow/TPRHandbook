@@ -1,0 +1,48 @@
+body{
+    background: #FBFAF9;
+	font-size:16px;
+	font-family:"微軟正黑體";
+	line-height:20px;
+}
+
+/*最外層的容器*/
+.wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+}
+
+/*主要內容的容器*/
+.content {
+    width: 100%;
+	margin: 20px;
+    padding: 20px;
+    box-shadow: 0 0 0.5em #999;
+}
+
+/*首頁排版用*/
+.multi_list{
+    margin: 20px;
+    float: left;
+}
+
+/*table陰*/
+.cell_yin{
+	background-color:#4dbeff;
+}
+
+/*table陽*/
+.cell_yang{
+	background-color:#f5a861;
+}
+/*table限定*/
+.cell_special{
+	background-color:#d79ff8;
+}
+
+.table th,
+.table td{
+    text-align: left;
+    vertical-align: middle;
+    min-width: 100px;
+}

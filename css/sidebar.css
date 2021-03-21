@@ -1,0 +1,17 @@
+
+.sidebar {
+    padding: 20px;
+	width: max-content;
+}
+
+.sidebar-sticky{
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+}
+
+.sidebar-link {
+    color: #2B73B7;
+    font-size: 1.2em;
+    margin: 20px;
+}
