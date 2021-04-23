@@ -2,8 +2,7 @@
 p {
 	font-family:"微軟正黑體";
 	font-size:16px;
-	line-height:20px;
-	
+	line-height:24px;
 }
 
 h1, h2, h3, h4{
@@ -136,7 +135,7 @@ h1, h2, h3, h4{
 .bstressredd {
 	font-family:"微軟正黑體";
 	font-weight:bold;
-	font-size:12px;
+	font-size:14px;
 	color:#F00;
 }
 
